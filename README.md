@@ -1,4 +1,4 @@
-# T20 Vision: Cricket Analytics Dashboard using Power BI🏏
+## T20 Vision: Cricket Analytics Dashboard using Power BI🏏
 
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
