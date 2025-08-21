@@ -26,18 +26,18 @@ The Cricket Data Analytics🏏 project is made on T-20 Cricket World Cup Data. I
 
 # Screenshots of the Dashboard:
 
-![power_hitters_and_openers](https://github.com/notramm/Cricket-World-Cup-Data-Analytics/blob/master/Screenshots/power_hitters_and_openers.jpg)
+![power_hitters_and_openers](Screenshots/power_hitters_and_openers.jpg)
 
-![hover_effect](https://github.com/notramm/Cricket-World-Cup-Data-Analytics/blob/master/Screenshots/hover_effect.jpg)
+![hover_effect](Screenshots/hover_effect.jpg)
 
-![individual_stats](https://github.com/notramm/Cricket-World-Cup-Data-Analytics/blob/master/Screenshots/individual_stats.jpg)
+![individual_stats](Screenshots/individual_stats.jpg)
 
-![anchors](https://github.com/notramm/Cricket-World-Cup-Data-Analytics/blob/master/Screenshots/anchors.jpg)
+![anchors](Screenshots/anchors.jpg)
 
-![finishers](https://github.com/notramm/Cricket-World-Cup-Data-Analytics/blob/master/Screenshots/finishers.jpg)
+![finishers](Screenshots/finishers.jpg)
 
-![all_rounders](https://github.com/notramm/Cricket-World-Cup-Data-Analytics/blob/master/Screenshots/all_rounders.jpg)
+![all_rounders](Screenshots/all_rounders.jpg)
 
-![fast_bowlers](https://github.com/notramm/Cricket-World-Cup-Data-Analytics/blob/master/Screenshots/fast_bowlers.jpg)
+![fast_bowlers](Screenshots/fast_bowlers.jpg)
 
-![pick_final_11](https://github.com/notramm/Cricket-World-Cup-Data-Analytics/blob/master/Screenshots/pick_final_11.jpg)
+![pick_final_11](Screenshots/pick_final_11.jpg)
